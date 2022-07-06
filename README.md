@@ -27,16 +27,21 @@ List of libraries
 
 
 
-How to upload a libraries
+How to upload a library
 -----------------------------------------------------
 
 1. Fork this repository
-2. Create a folder in libries directory, e.g. surface, then add your **.blend** file into the folder.
-3. Open README.md file, append a new line in the table **List of libraries**, add the `name`, `file` and `description` for your library.
+2. Create a folder in libraries directory, e.g. surface, then add your **.blend** file into the folder. A **README.md** which gives a detailed description of the library is also suggested to be added.
+3. Open the README.md file, append a new line in the table **List of libraries**, and add the `name`, `file` and `description` for your library.
 4. Create a [Pull Request](https://github.com/beautiful-atoms/asset-libraries/pulls) to this repository.
 
 
-## How to make a asset library
+How to use the library
+-----------------------------------------------------
+1. Git clone this repo.
+2. copy the **.blend** files of interested libraries to your asset folder of Blender.
+
+## How to make an asset library
 
 Please visit these manuls:
 - https://docs.blender.org/manual/en/latest/files/asset_libraries/introduction.html#the-current-file-asset-library

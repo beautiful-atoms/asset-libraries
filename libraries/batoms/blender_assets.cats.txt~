@@ -1,0 +1,37 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+743a54b8-88c2-4ebe-948e-f263fa42a331:Application:Application
+eb3161b4-74e6-4da3-86cd-cc267377a058:Application/Battery:Application-Battery
+5ef83e8b-44f4-4545-b14d-a810f13b1f8b:Application/Catalyst:Application-Catalyst
+f754037b-c93d-4477-bbd6-4dac907a481c:Crystal:Crystal
+27446100-2148-481c-8408-6b1f4d7963c0:Crystal/Antimonide:Crystal-Antimonide
+712ec685-96d7-40f6-8812-f7c4618740b5:Crystal/Arsenide:Crystal-Arsenide
+5c1b710a-c00f-478f-856d-73a44e8e9cf0:Crystal/Carbide:Crystal-Carbide
+222548d9-b8f4-4621-9964-1386daaec3b8:Crystal/Carbonate:Crystal-Carbonate
+da2d695a-e1aa-4d02-a56e-5abc0308ed28:Crystal/Clay:Crystal-Clay
+937d2e64-2a98-43f5-9edc-1a41688abe08:Crystal/Halide:Crystal-Halide
+1982bbda-0d26-4d5c-986c-0d866b177110:Crystal/Hydride:Crystal-Hydride
+003f59c4-e60f-4cf6-bdbe-5d7a9e36d9eb:Crystal/Hydroxide:Crystal-Hydroxide
+afd5f5b9-57ca-461d-a1c6-7078923eca42:Crystal/Ice:Crystal-Ice
+b11b3dd0-7978-45aa-9fcc-27a2129e8a75:Crystal/Intermetallic:Crystal-Intermetallic
+5b9b79db-5ac3-4932-9c94-e06478700405:Crystal/MOF:Crystal-MOF
+95d0ae43-ee91-44b9-aa1c-934a6f06bf79:Crystal/MOF:Crystal-MOF
+02a2e8b5-792e-4bc9-b562-94277e299b61:Crystal/Nitride:Crystal-Nitride
+c24fa2d6-919e-4dad-a7af-e565df9941f4:Crystal/Oxide:Crystal-Oxide
+62b50c5b-b71e-4a35-af05-3c07c727bd01:Crystal/Perovskite:Crystal-Perovskite
+dc924343-ad09-4367-9827-1abda36bc2d3:Crystal/Phosphide:Crystal-Phosphide
+a76b0ce8-5b25-4741-9f26-bc4ac3fae69b:Crystal/Selenide:Crystal-Selenide
+ab83e5ee-34cb-4d77-870e-78d542cebc70:Crystal/Silicate:Crystal-Silicate
+2d7b3e85-615a-4cfa-9619-2614cc205b04:Crystal/Sulfate:Crystal-Sulfate
+99acaa2e-4f10-494c-8343-bd92efaebee8:Crystal/Sulfide:Crystal-Sulfide
+862e0e90-1164-4345-8dda-c53f643d7b51:Crystal/Teluride:Crystal-Teluride
+755f7cd6-256d-4100-9cc8-72ebf658cc17:Crystal/Titanate:Crystal-Titanate
+eeb43b72-fccb-4cd7-bc46-030646f5b902:Crystal/Zeolite:Crystal-Zeolite
+027e69a2-358a-43d3-b8a0-df8893213e50:Element:Element
+75d85fb2-cf0c-49e8-b299-41c514e3dc78:Molecule:Molecule
