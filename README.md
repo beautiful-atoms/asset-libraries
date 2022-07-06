@@ -12,9 +12,10 @@ Proposal for Batoms' asset library
 - User can share their asset in Batoms' community.
 
 
-Here is a preview of Batoms' asset library.
+Here is an example of Batoms' asset library.
 
-https://user-images.githubusercontent.com/11457659/177165201-aafe76cf-bd44-4a32-99a7-c96f09fb8fe5.mp4
+https://user-images.githubusercontent.com/11457659/177654565-f53b46f2-5faf-4b76-9f15-963007727737.mp4
+
 
 
 
